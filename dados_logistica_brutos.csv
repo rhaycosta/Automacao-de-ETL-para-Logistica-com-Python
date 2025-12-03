@@ -1,0 +1,211 @@
+ID_Pedido,Data_Pedido,Cidade_Destino,Peso_kg,Valor_Frete,Status_Entrega
+1001,2025-10-24,"Porto Alegre, RS",5.57,47.98,
+1002,06/11/2025,"Rio de Janeiro, RJ",1.81,20.67,
+1003,Data Inválida,BH - Minas,38.06,73.48,Pendente
+1004,Data Inválida,"Salvador, BA",18.27,51.16,Entregue
+1005,18-10-2025,"Rio de Janeiro, RJ",27.83,84.92,Pendente
+1006,2025-10-28,"Rio de Janeiro, RJ",,,Em Trânsito
+1007,15-10-2025,"Rio de Janeiro, RJ",19.32,57.12,Em Trânsito
+1008,10-11-2025,Curitiba - PR,32.58,R$ 83.24,Em Trânsito
+1009,23-11-2025,"Porto Alegre, RS",28.07,79.49,Entregue
+1010,19-11-2025,"Salvador, BA",37kg,100.55,Cancelado
+1011,08-11-2025,Curitiba - PR,12.71,51.52,
+1012,06-11-2025,"Recife, PE",7.35,40.77,Entregue
+1013,24-11-2025,Curitiba - PR,25kg,71.34,Pendente
+1014,29-10-2025,"São Paulo, SP",44.3,106.49,Pendente
+1015,26-11-2025,"Belo Horizonte, MG",43.85,86.31,Em Trânsito
+1016,01-11-2025,Curitiba - PR,30.64,62.07,
+1017,15-10-2025,"São Paulo, SP",6.04,33.58,Pendente
+1018,18/11/2025,BH - Minas,32kg,90.64,
+1019,2025-10-15,Curitiba - PR,13.62,65.33,Em Trânsito
+1020,05-10-2025,"Curitiba, PR",33.75,75.56,Cancelado
+1021,Data Inválida,"Rio de Janeiro, RJ",11.89,R$ 36.64,Entregue
+1022,19/11/2025,"São Paulo, SP",16kg,45.14,
+1023,25-11-2025,BH - Minas,23.91,R$ 62.15,Cancelado
+1024,11-11-2025,"Brasília, DF",42kg,R$ 112.37,Cancelado
+1025,18-10-2025,"Rio de Janeiro, RJ",22.71,60.94,Em Trânsito
+1026,09-10-2025,"Brasília, DF",5.35,44.11,Entregue
+1027,28-11-2025,"Curitiba, PR",11.08,R$ 42.66,Cancelado
+1028,03-12-2025,"Porto Alegre, RS",14.62,59.79,
+1029,22-10-2025,"Belo Horizonte, MG",3.39,R$ 44.51,Pendente
+1030,30/11/2025,"Brasília, DF",8.29,R$ 60.87,Em Trânsito
+1031,29-11-2025,Curitiba - PR,47.11,103.45,Entregue
+1032,25/10/2025,Curitiba - PR,46.77,88.33,Em Trânsito
+1033,17-11-2025,Curitiba - PR,46.49,R$ 117.16,
+1034,28-10-2025,"Rio de Janeiro, RJ",7.06,R$ 34.55,Em Trânsito
+1035,10-11-2025,"Brasília, DF",30.78,95.66,Entregue
+1036,22-10-2025,"Porto Alegre, RS",43.97,86.53,
+1037,24-11-2025,BH - Minas,34.53,95.91,Pendente
+1038,07-10-2025,"São Paulo, SP",14.2,31.44,Pendente
+1039,23-11-2025,sao paulo,6.04,56.86,Em Trânsito
+1040,30/10/2025,"Salvador, BA",6.81,32.55,Entregue
+1041,07-10-2025,Curitiba - PR,39.12,104.05,
+1042,2025-10-17,"Curitiba, PR",40.63,R$ 106.20,Pendente
+1043,14-10-2025,Curitiba - PR,13.71,R$ 62.06,Entregue
+1044,10-10-2025,"Curitiba, PR",15.61,65.23,Entregue
+1045,2025-10-22,"Salvador, BA",50kg,96.16,Cancelado
+1046,21-10-2025,sao paulo,17kg,42.64,Pendente
+1047,2025-12-01,"Recife, PE",22.1,R$ 82.52,
+1048,21-11-2025,"Recife, PE",,,
+1049,21-10-2025,Curitiba - PR,47.47,118.04,Entregue
+1050,18-10-2025,sao paulo,20.42,R$ 52.46,Cancelado
+1051,22-10-2025,Curitiba - PR,28.67,69.25,Pendente
+1052,Data Inválida,BH - Minas,22.37,70.58,Em Trânsito
+1053,22/10/2025,sao paulo,5.12,55.76,Pendente
+1054,19-11-2025,"Belo Horizonte, MG",,,Em Trânsito
+1055,03-11-2025,"Rio de Janeiro, RJ",29.0,82.23,Cancelado
+1056,2025-11-18,"São Paulo, SP",44.33,107.63,
+1057,04/11/2025,"Curitiba, PR",7.1,39.24,
+1058,26-10-2025,"Brasília, DF",25.49,81.46,Em Trânsito
+1059,17-10-2025,"Brasília, DF",32.06,88.72,Em Trânsito
+1060,16-11-2025,"Porto Alegre, RS",44.7,R$ 80.27,Cancelado
+1061,2025-10-20,"Curitiba, PR",27.36,67.67,Cancelado
+1062,09-11-2025,BH - Minas,49kg,106.53,Pendente
+1063,14-11-2025,"Recife, PE",40.09,106.05,Pendente
+1064,06-11-2025,"Recife, PE",20.51,47.37,Em Trânsito
+1065,25-10-2025,"Recife, PE",4.66,34.13,Em Trânsito
+1066,30-11-2025,"Salvador, BA",38.18,82.44,Cancelado
+1067,17-11-2025,"Brasília, DF",,,
+1068,30-11-2025,"Salvador, BA",42kg,R$ 74.61,Em Trânsito
+1069,21-11-2025,BH - Minas,33.64,83.02,Pendente
+1070,15-10-2025,BH - Minas,6.17,52.03,Entregue
+1071,27/10/2025,"Porto Alegre, RS",19.08,R$ 76.28,
+1072,20-10-2025,"Curitiba, PR",42.59,R$ 97.90,
+1073,14/10/2025,sao paulo,25.55,61.97,Cancelado
+1074,27-11-2025,"Salvador, BA",35.51,80.68,Pendente
+1075,25-10-2025,sao paulo,41.37,95.75,Em Trânsito
+1076,11-10-2025,"Porto Alegre, RS",23.5,69.66,Entregue
+1077,02-11-2025,"Belo Horizonte, MG",13.29,41.12,Pendente
+1078,29/10/2025,"Curitiba, PR",24.68,77.35,Cancelado
+1079,05-11-2025,"Rio de Janeiro, RJ",12.54,55.37,
+1080,31-10-2025,sao paulo,13.91,R$ 40.92,Em Trânsito
+1081,2025-11-13,sao paulo,9.98,54.51,
+1082,16-10-2025,"Porto Alegre, RS",15.16,47.18,
+1083,25-11-2025,"São Paulo, SP",6.75,54.86,Entregue
+1084,28-10-2025,"Brasília, DF",3.04,52.2,Entregue
+1085,08-11-2025,BH - Minas,10kg,57.45,Entregue
+1086,2025-11-18,"Recife, PE",11.67,48.41,Cancelado
+1087,14-11-2025,"Recife, PE",30.68,85.62,Em Trânsito
+1088,Data Inválida,Curitiba - PR,27.82,57.99,
+1089,03-11-2025,"Curitiba, PR",43.05,77.42,Pendente
+1090,14-10-2025,BH - Minas,21.54,64.09,Pendente
+1091,2025-10-12,"São Paulo, SP",37.57,89.12,Entregue
+1092,04-11-2025,"Recife, PE",24.94,R$ 50.63,Cancelado
+1093,17-10-2025,"Porto Alegre, RS",,,Em Trânsito
+1094,21-10-2025,BH - Minas,49kg,110.39,Entregue
+1095,16-10-2025,"Brasília, DF",14.27,71.28,Cancelado
+1096,28-11-2025,"Recife, PE",42.96,87.63,Pendente
+1097,22-10-2025,sao paulo,,,Entregue
+1098,13-11-2025,"Rio de Janeiro, RJ",25.97,88.48,
+1099,04-11-2025,"Curitiba, PR",25.18,R$ 65.45,Pendente
+1100,2025-10-29,"Porto Alegre, RS",6.51,58.69,Em Trânsito
+1101,2025-10-19,sao paulo,,,Cancelado
+1102,Data Inválida,"Rio de Janeiro, RJ",41.69,92.47,
+1103,19-10-2025,"Brasília, DF",27.79,67.03,
+1104,17-10-2025,"Rio de Janeiro, RJ",21.04,78.93,Entregue
+1105,15-11-2025,BH - Minas,43.33,92.86,Pendente
+1106,29-10-2025,"Recife, PE",9.84,52.66,Em Trânsito
+1107,10-10-2025,"São Paulo, SP",45.71,93.81,Em Trânsito
+1108,02-11-2025,"Belo Horizonte, MG",43.55,110.29,
+1109,06-10-2025,"Belo Horizonte, MG",8.14,40.99,Pendente
+1110,25-10-2025,Curitiba - PR,33.88,82.16,Cancelado
+1111,09-10-2025,BH - Minas,46.09,119.03,Cancelado
+1112,27-11-2025,"Rio de Janeiro, RJ",45.22,79.67,Pendente
+1113,11-11-2025,"Belo Horizonte, MG",34.25,R$ 68.58,
+1114,09-10-2025,Curitiba - PR,7.58,39.82,Pendente
+1115,22/10/2025,"Brasília, DF",8.32,40.15,
+1116,14-11-2025,"Recife, PE",15.46,73.16,Entregue
+1117,18-11-2025,"Salvador, BA",15.11,71.78,Pendente
+1118,03-12-2025,Curitiba - PR,45.58,108.18,Pendente
+1119,15-10-2025,BH - Minas,9.91,34.89,Em Trânsito
+1120,24/10/2025,Curitiba - PR,22.32,66.66,Entregue
+1121,06-10-2025,"Recife, PE",27.2,89.66,Pendente
+1122,2025-10-11,"Brasília, DF",43.58,107.54,Entregue
+1123,24-11-2025,"Curitiba, PR",49.01,122.21,Pendente
+1124,28-11-2025,"São Paulo, SP",18.74,68.07,Cancelado
+1125,12-10-2025,"Salvador, BA",1.74,47.98,
+1126,19-11-2025,Curitiba - PR,15.46,R$ 49.52,Entregue
+1127,14-11-2025,"Rio de Janeiro, RJ",7.22,38.98,
+1128,07-11-2025,"Belo Horizonte, MG",41.77,97.28,Pendente
+1129,01-12-2025,"Curitiba, PR",42.84,78.23,
+1130,07-10-2025,"Salvador, BA",48.43,120.61,Entregue
+1131,Data Inválida,Curitiba - PR,22kg,R$ 52.74,
+1132,20/11/2025,sao paulo,43.55,R$ 88.47,
+1133,03-12-2025,"Belo Horizonte, MG",40.03,74.44,Em Trânsito
+1134,03-12-2025,"Curitiba, PR",17kg,37.6,
+1135,26-11-2025,"Brasília, DF",29.89,72.92,
+1136,01-12-2025,Curitiba - PR,48.22,84.76,Cancelado
+1137,06-11-2025,"Brasília, DF",45.01,R$ 90.40,Em Trânsito
+1138,16-11-2025,BH - Minas,49.73,105.82,
+1139,06/11/2025,"Rio de Janeiro, RJ",38.56,96.67,Cancelado
+1140,Data Inválida,"Salvador, BA",36.62,77.43,Pendente
+1141,10-11-2025,Curitiba - PR,6kg,R$ 22.73,Pendente
+1142,2025-10-13,"São Paulo, SP",16.82,40.12,Cancelado
+1143,09-10-2025,"São Paulo, SP",17.91,59.98,Cancelado
+1144,19-11-2025,"Salvador, BA",38.25,90.34,
+1145,15-10-2025,BH - Minas,30.65,82.29,Entregue
+1146,22-11-2025,"Porto Alegre, RS",9.48,29.95,Entregue
+1147,24-11-2025,"São Paulo, SP",19.12,R$ 56.83,Pendente
+1148,18-10-2025,BH - Minas,8.2,R$ 52.48,Entregue
+1149,16-11-2025,"Recife, PE",14.02,R$ 61.23,Cancelado
+1150,26-11-2025,Curitiba - PR,15.77,42.48,Entregue
+1151,Data Inválida,"Curitiba, PR",14.83,37.04,Cancelado
+1152,2025-11-22,sao paulo,41.75,R$ 104.87,Entregue
+1153,06/11/2025,"Rio de Janeiro, RJ",28.88,81.7,Entregue
+1154,08/11/2025,"Salvador, BA",23.27,72.49,Cancelado
+1155,2025-10-10,"Recife, PE",20.09,52.55,Pendente
+1156,2025-10-15,sao paulo,10.1,56.2,Em Trânsito
+1157,2025-11-18,"Porto Alegre, RS",38.13,R$ 93.42,Cancelado
+1158,04-11-2025,BH - Minas,28.44,78.07,Pendente
+1159,24-11-2025,"Brasília, DF",14.1,33.4,Pendente
+1160,04-11-2025,"São Paulo, SP",32.41,R$ 97.71,
+1161,01-11-2025,BH - Minas,44.85,95.26,Em Trânsito
+1162,13-11-2025,sao paulo,7kg,52.94,Entregue
+1163,01-11-2025,"São Paulo, SP",22.25,R$ 64.28,Pendente
+1164,06-10-2025,"Recife, PE",3.09,39.87,Pendente
+1165,27-11-2025,"Recife, PE",33.0,95.75,Pendente
+1166,28-11-2025,"Belo Horizonte, MG",32.97,R$ 85.94,Entregue
+1167,14-11-2025,Curitiba - PR,33.67,93.66,
+1168,28-11-2025,"Recife, PE",20kg,47.21,Cancelado
+1169,Data Inválida,"Belo Horizonte, MG",39.51,89.57,
+1170,01-12-2025,BH - Minas,8.53,56.05,Em Trânsito
+1171,18-10-2025,"Recife, PE",48.49,107.16,Cancelado
+1172,19-11-2025,"Porto Alegre, RS",45.25,85.64,
+1173,05-11-2025,"Porto Alegre, RS",21.22,R$ 48.31,
+1174,25-11-2025,"São Paulo, SP",27.95,56.03,Entregue
+1175,15/11/2025,"Belo Horizonte, MG",7.79,39.18,Em Trânsito
+1176,12-10-2025,"Salvador, BA",20.12,55.14,Entregue
+1177,Data Inválida,"Salvador, BA",32.67,R$ 90.66,Pendente
+1178,06-10-2025,"Belo Horizonte, MG",30.96,R$ 92.67,Em Trânsito
+1179,2025-10-11,BH - Minas,14.76,R$ 44.19,Cancelado
+1180,24-10-2025,"Brasília, DF",25.24,69.3,
+1181,18-11-2025,"Porto Alegre, RS",12.41,45.28,Entregue
+1182,31-10-2025,"Rio de Janeiro, RJ",39.43,R$ 89.45,Cancelado
+1183,01-12-2025,"Salvador, BA",5kg,31.29,Entregue
+1184,15-10-2025,"Salvador, BA",17.26,61.6,Cancelado
+1185,20-10-2025,"Belo Horizonte, MG",50kg,R$ 122.74,Em Trânsito
+1186,01-12-2025,"São Paulo, SP",20.21,72.93,Entregue
+1187,16-10-2025,"Porto Alegre, RS",43.36,R$ 88.32,Pendente
+1188,06-11-2025,"Brasília, DF",48.7,102.9,
+1189,16-11-2025,"Recife, PE",41.21,93.63,Entregue
+1190,13-11-2025,"Porto Alegre, RS",8.75,40.88,Pendente
+1191,25-10-2025,"Porto Alegre, RS",3.34,41.86,
+1192,13-10-2025,"Belo Horizonte, MG",30.57,R$ 87.11,Entregue
+1193,18-11-2025,"Salvador, BA",2.1,19.29,Pendente
+1194,10-11-2025,"Rio de Janeiro, RJ",20.2,66.28,Entregue
+1195,02-12-2025,"Brasília, DF",6.33,50.49,Em Trânsito
+1196,25-10-2025,"Brasília, DF",4.17,23.16,Entregue
+1197,13-10-2025,"Salvador, BA",27.72,63.19,Em Trânsito
+1198,19-10-2025,Curitiba - PR,11.6,66.81,Em Trânsito
+1199,14-10-2025,"Salvador, BA",40.28,92.49,Entregue
+1200,29-11-2025,"Brasília, DF",41.26,74.84,Entregue
+1001,2025-10-24,"Porto Alegre, RS",5.57,47.98,
+1002,06/11/2025,"Rio de Janeiro, RJ",1.81,20.67,
+1003,Data Inválida,BH - Minas,38.06,73.48,Pendente
+1004,Data Inválida,"Salvador, BA",18.27,51.16,Entregue
+1005,18-10-2025,"Rio de Janeiro, RJ",27.83,84.92,Pendente
+1006,2025-10-28,"Rio de Janeiro, RJ",,,Em Trânsito
+1007,15-10-2025,"Rio de Janeiro, RJ",19.32,57.12,Em Trânsito
+1008,10-11-2025,Curitiba - PR,32.58,R$ 83.24,Em Trânsito
+1009,23-11-2025,"Porto Alegre, RS",28.07,79.49,Entregue
+1010,19-11-2025,"Salvador, BA",37kg,100.55,Cancelado
